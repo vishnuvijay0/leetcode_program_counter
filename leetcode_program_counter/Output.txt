@@ -1,0 +1,6 @@
+S.no:Name:Dept:Total:Easy:Medium:Hard
+1:Sivagnanasankar C S :CD :244:173:66:5
+2:Praveen Kumar Parida :CD :192:131:52:9
+3:Hariharan S :CS :334:238:82:14
+4:Dhananjai J :CY :295:236:53:6
+5:moneeish J :CY :225:175:47:3
